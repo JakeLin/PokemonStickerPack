@@ -1,23 +1,27 @@
 {
   "images" : [
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Pikachu Copy 2-1.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Pikachu Copy 2.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "Pikachu Copy 3-1.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "Pikachu Copy 3.png",
       "scale" : "3x"
     },
     {
@@ -84,6 +88,7 @@
     {
       "size" : "1024x768",
       "idiom" : "ios-marketing",
+      "filename" : "Group.png",
       "scale" : "1x",
       "platform" : "ios"
     }

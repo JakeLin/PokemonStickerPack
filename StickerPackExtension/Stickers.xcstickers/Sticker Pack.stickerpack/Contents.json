@@ -1,9 +1,1490 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Pokémon454.sticker"
+    },
+    {
+      "filename" : "Pokémon446.sticker"
+    },
+    {
+      "filename" : "Pokémon106.sticker"
+    },
+    {
+      "filename" : "Pokémon117.sticker"
+    },
+    {
+      "filename" : "Pokémon332.sticker"
+    },
+    {
+      "filename" : "Pokémon398.sticker"
+    },
+    {
+      "filename" : "Pokémon211.sticker"
+    },
+    {
+      "filename" : "Pokémon361.sticker"
+    },
+    {
+      "filename" : "Pokémon297.sticker"
+    },
+    {
+      "filename" : "Pokémon119.sticker"
+    },
+    {
+      "filename" : "Pokémon143.sticker"
+    },
+    {
+      "filename" : "Pokémon131.sticker"
+    },
+    {
+      "filename" : "Pokémon36.sticker"
+    },
+    {
+      "filename" : "Pokémon219.sticker"
+    },
+    {
+      "filename" : "Pokémon101.sticker"
+    },
+    {
+      "filename" : "Pokémon20.sticker"
+    },
+    {
+      "filename" : "Pokémon397.sticker"
+    },
+    {
+      "filename" : "Pokémon381.sticker"
+    },
+    {
+      "filename" : "Pokémon191.sticker"
+    },
+    {
+      "filename" : "Pokémon322.sticker"
+    },
+    {
+      "filename" : "Pokémon436.sticker"
+    },
+    {
+      "filename" : "Pokémon319.sticker"
+    },
+    {
+      "filename" : "Pokémon133.sticker"
+    },
+    {
+      "filename" : "Pokémon452.sticker"
+    },
+    {
+      "filename" : "Pokémon448.sticker"
+    },
+    {
+      "filename" : "Pokémon204.sticker"
+    },
+    {
+      "filename" : "Pokémon392.sticker"
+    },
+    {
+      "filename" : "Pokémon249.sticker"
+    },
+    {
+      "filename" : "Pokémon179.sticker"
+    },
+    {
+      "filename" : "Pokémon84.sticker"
+    },
+    {
+      "filename" : "Pokémon416.sticker"
+    },
+    {
+      "filename" : "Pokémon32.sticker"
+    },
+    {
+      "filename" : "Pokémon163.sticker"
+    },
+    {
+      "filename" : "Pokémon451.sticker"
+    },
+    {
+      "filename" : "Pokémon189.sticker"
+    },
+    {
+      "filename" : "Pokémon218.sticker"
+    },
+    {
+      "filename" : "Pokémon478.sticker"
+    },
+    {
+      "filename" : "Pokémon442.sticker"
+    },
+    {
+      "filename" : "Pokémon340.sticker"
+    },
+    {
+      "filename" : "Pokémon483.sticker"
+    },
+    {
+      "filename" : "Pokémon116.sticker"
+    },
+    {
+      "filename" : "Pokémon280.sticker"
+    },
+    {
+      "filename" : "Pokémon493.sticker"
+    },
+    {
+      "filename" : "Pokémon393.sticker"
+    },
+    {
+      "filename" : "Pokémon382.sticker"
+    },
+    {
+      "filename" : "Pokémon309.sticker"
+    },
+    {
+      "filename" : "Pokémon336.sticker"
+    },
+    {
+      "filename" : "Pokémon51.sticker"
+    },
+    {
+      "filename" : "Pokémon258.sticker"
+    },
+    {
+      "filename" : "Pokémon357.sticker"
+    },
+    {
+      "filename" : "Pokémon178.sticker"
+    },
+    {
+      "filename" : "Pokémon474.sticker"
+    },
+    {
+      "filename" : "Pokémon364.sticker"
+    },
+    {
+      "filename" : "Pokémon432.sticker"
+    },
+    {
+      "filename" : "Pokémon41.sticker"
+    },
+    {
+      "filename" : "Pokémon230.sticker"
+    },
+    {
+      "filename" : "Pokémon485.sticker"
+    },
+    {
+      "filename" : "Pokémon409.sticker"
+    },
+    {
+      "filename" : "Pokémon462.sticker"
+    },
+    {
+      "filename" : "Pokémon214.sticker"
+    },
+    {
+      "filename" : "Pokémon57.sticker"
+    },
+    {
+      "filename" : "Pokémon140.sticker"
+    },
+    {
+      "filename" : "Pokémon486.sticker"
+    },
+    {
+      "filename" : "Pokémon112.sticker"
+    },
+    {
+      "filename" : "Pokémon98.sticker"
+    },
+    {
+      "filename" : "Pokémon480.sticker"
+    },
+    {
+      "filename" : "Pokémon158.sticker"
+    },
+    {
+      "filename" : "Pokémon93.sticker"
+    },
+    {
+      "filename" : "Pokémon294.sticker"
+    },
+    {
+      "filename" : "Pokémon247.sticker"
+    },
+    {
+      "filename" : "Pokémon365.sticker"
+    },
+    {
+      "filename" : "Pokémon225.sticker"
+    },
+    {
+      "filename" : "Pokémon367.sticker"
+    },
+    {
+      "filename" : "Pokémon389.sticker"
+    },
+    {
+      "filename" : "Pokémon378.sticker"
+    },
+    {
+      "filename" : "Pokémon327.sticker"
+    },
+    {
+      "filename" : "Pokémon306.sticker"
+    },
+    {
+      "filename" : "Pokémon477.sticker"
+    },
+    {
+      "filename" : "Pokémon252.sticker"
+    },
+    {
+      "filename" : "Pokémon138.sticker"
+    },
+    {
+      "filename" : "Pokémon344.sticker"
+    },
+    {
+      "filename" : "Pokémon241.sticker"
+    },
+    {
+      "filename" : "Pokémon6.sticker"
+    },
+    {
+      "filename" : "Pokémon235.sticker"
+    },
+    {
+      "filename" : "Pokémon206.sticker"
+    },
+    {
+      "filename" : "Pokémon216.sticker"
+    },
+    {
+      "filename" : "Pokémon277.sticker"
+    },
+    {
+      "filename" : "Pokémon126.sticker"
+    },
+    {
+      "filename" : "Pokémon150.sticker"
+    },
+    {
+      "filename" : "Pokémon266.sticker"
+    },
+    {
+      "filename" : "Pokémon324.sticker"
+    },
+    {
+      "filename" : "Pokémon50.sticker"
+    },
+    {
+      "filename" : "Pokémon127.sticker"
+    },
+    {
+      "filename" : "Pokémon395.sticker"
+    },
+    {
+      "filename" : "Pokémon223.sticker"
+    },
+    {
+      "filename" : "Pokémon482.sticker"
+    },
+    {
+      "filename" : "Pokémon203.sticker"
+    },
+    {
+      "filename" : "Pokémon91.sticker"
+    },
+    {
+      "filename" : "Pokémon113.sticker"
+    },
+    {
+      "filename" : "Pokémon343.sticker"
+    },
+    {
+      "filename" : "Pokémon278.sticker"
+    },
+    {
+      "filename" : "Pokémon39.sticker"
+    },
+    {
+      "filename" : "Pokémon350.sticker"
+    },
+    {
+      "filename" : "Pokémon238.sticker"
+    },
+    {
+      "filename" : "Pokémon399.sticker"
+    },
+    {
+      "filename" : "Pokémon221.sticker"
+    },
+    {
+      "filename" : "Pokémon40.sticker"
+    },
+    {
+      "filename" : "Pokémon463.sticker"
+    },
+    {
+      "filename" : "Pokémon292.sticker"
+    },
+    {
+      "filename" : "Pokémon434.sticker"
+    },
+    {
+      "filename" : "Pokémon180.sticker"
+    },
+    {
+      "filename" : "Pokémon83.sticker"
+    },
+    {
+      "filename" : "Pokémon139.sticker"
+    },
+    {
+      "filename" : "Pokémon380.sticker"
+    },
+    {
+      "filename" : "Pokémon285.sticker"
+    },
+    {
+      "filename" : "Pokémon330.sticker"
+    },
+    {
+      "filename" : "Pokémon99.sticker"
+    },
+    {
+      "filename" : "Pokémon37.sticker"
+    },
+    {
+      "filename" : "Pokémon286.sticker"
+    },
+    {
+      "filename" : "Pokémon356.sticker"
+    },
+    {
+      "filename" : "Pokémon301.sticker"
+    },
+    {
+      "filename" : "Pokémon149.sticker"
+    },
+    {
+      "filename" : "Pokémon177.sticker"
+    },
+    {
+      "filename" : "Pokémon244.sticker"
+    },
+    {
+      "filename" : "Pokémon242.sticker"
+    },
+    {
+      "filename" : "Pokémon335.sticker"
+    },
+    {
+      "filename" : "Pokémon168.sticker"
+    },
+    {
+      "filename" : "Pokémon59.sticker"
+    },
+    {
+      "filename" : "Pokémon299.sticker"
+    },
+    {
+      "filename" : "Pokémon164.sticker"
+    },
+    {
+      "filename" : "Pokémon18.sticker"
+    },
+    {
+      "filename" : "Pokémon31.sticker"
+    },
+    {
+      "filename" : "Pokémon26.sticker"
+    },
+    {
+      "filename" : "Pokémon95.sticker"
+    },
+    {
+      "filename" : "Pokémon33.sticker"
+    },
+    {
+      "filename" : "Pokémon460.sticker"
+    },
+    {
+      "filename" : "Pokémon55.sticker"
+    },
+    {
+      "filename" : "Pokémon159.sticker"
+    },
+    {
+      "filename" : "Pokémon208.sticker"
+    },
+    {
+      "filename" : "Pokémon293.sticker"
+    },
+    {
+      "filename" : "Pokémon110.sticker"
+    },
+    {
+      "filename" : "Pokémon69.sticker"
+    },
+    {
+      "filename" : "Pokémon362.sticker"
+    },
+    {
+      "filename" : "Pokémon195.sticker"
+    },
+    {
+      "filename" : "Pokémon104.sticker"
+    },
+    {
+      "filename" : "Pokémon376.sticker"
+    },
+    {
+      "filename" : "Pokémon134.sticker"
+    },
+    {
+      "filename" : "Pokémon22.sticker"
+    },
+    {
+      "filename" : "Pokémon417.sticker"
+    },
+    {
+      "filename" : "Pokémon9.sticker"
+    },
+    {
+      "filename" : "Pokémon103.sticker"
+    },
+    {
+      "filename" : "Pokémon253.sticker"
+    },
+    {
+      "filename" : "Pokémon44.sticker"
+    },
+    {
+      "filename" : "Pokémon325.sticker"
+    },
+    {
+      "filename" : "Pokémon29.sticker"
+    },
+    {
+      "filename" : "Pokémon89.sticker"
+    },
+    {
+      "filename" : "Pokémon14.sticker"
+    },
+    {
+      "filename" : "Pokémon461.sticker"
+    },
+    {
+      "filename" : "Pokémon420.sticker"
+    },
+    {
+      "filename" : "Pokémon313.sticker"
+    },
+    {
+      "filename" : "Pokémon308.sticker"
+    },
+    {
+      "filename" : "Pokémon148.sticker"
+    },
+    {
+      "filename" : "Pokémon453.sticker"
+    },
+    {
+      "filename" : "Pokémon188.sticker"
+    },
+    {
+      "filename" : "Pokémon487.sticker"
+    },
+    {
+      "filename" : "Pokémon470.sticker"
+    },
+    {
+      "filename" : "Pokémon431.sticker"
+    },
+    {
+      "filename" : "Pokémon351.sticker"
+    },
+    {
+      "filename" : "Pokémon176.sticker"
+    },
+    {
+      "filename" : "Pokémon10.sticker"
+    },
+    {
+      "filename" : "Pokémon167.sticker"
+    },
+    {
+      "filename" : "Pokémon30.sticker"
+    },
+    {
+      "filename" : "Pokémon261.sticker"
+    },
+    {
+      "filename" : "Pokémon283.sticker"
+    },
+    {
+      "filename" : "Pokémon11.sticker"
+    },
+    {
+      "filename" : "Pokémon302.sticker"
+    },
+    {
+      "filename" : "Pokémon328.sticker"
+    },
+    {
+      "filename" : "Pokémon147.sticker"
+    },
+    {
+      "filename" : "Pokémon475.sticker"
+    },
+    {
+      "filename" : "Pokémon153.sticker"
+    },
+    {
+      "filename" : "Pokémon74.sticker"
+    },
+    {
+      "filename" : "Pokémon155.sticker"
+    },
+    {
+      "filename" : "Pokémon455.sticker"
+    },
+    {
+      "filename" : "Pokémon449.sticker"
+    },
+    {
+      "filename" : "Pokémon213.sticker"
+    },
+    {
+      "filename" : "Pokémon82.sticker"
+    },
+    {
+      "filename" : "Pokémon488.sticker"
+    },
+    {
+      "filename" : "Pokémon491.sticker"
+    },
+    {
+      "filename" : "Pokémon384.sticker"
+    },
+    {
+      "filename" : "Pokémon227.sticker"
+    },
+    {
+      "filename" : "Pokémon65.sticker"
+    },
+    {
+      "filename" : "Pokémon323.sticker"
+    },
+    {
+      "filename" : "Pokémon412.sticker"
+    },
+    {
+      "filename" : "Pokémon422.sticker"
+    },
+    {
+      "filename" : "Pokémon406.sticker"
+    },
+    {
+      "filename" : "Pokémon202.sticker"
+    },
+    {
+      "filename" : "Pokémon450.sticker"
+    },
+    {
+      "filename" : "Pokémon35.sticker"
+    },
+    {
+      "filename" : "Pokémon385.sticker"
+    },
+    {
+      "filename" : "Pokémon224.sticker"
+    },
+    {
+      "filename" : "Pokémon198.sticker"
+    },
+    {
+      "filename" : "Pokémon132.sticker"
+    },
+    {
+      "filename" : "Pokémon296.sticker"
+    },
+    {
+      "filename" : "Pokémon239.sticker"
+    },
+    {
+      "filename" : "Pokémon465.sticker"
+    },
+    {
+      "filename" : "Pokémon354.sticker"
+    },
+    {
+      "filename" : "Pokémon94.sticker"
+    },
+    {
+      "filename" : "Pokémon368.sticker"
+    },
+    {
+      "filename" : "Pokémon28.sticker"
+    },
+    {
+      "filename" : "Pokémon489.sticker"
+    },
+    {
+      "filename" : "Pokémon430.sticker"
+    },
+    {
+      "filename" : "Pokémon274.sticker"
+    },
+    {
+      "filename" : "Pokémon92.sticker"
+    },
+    {
+      "filename" : "Pokémon246.sticker"
+    },
+    {
+      "filename" : "Pokémon341.sticker"
+    },
+    {
+      "filename" : "Pokémon391.sticker"
+    },
+    {
+      "filename" : "Pokémon250.sticker"
+    },
+    {
+      "filename" : "Pokémon78.sticker"
+    },
+    {
+      "filename" : "Pokémon445.sticker"
+    },
+    {
+      "filename" : "Pokémon270.sticker"
+    },
+    {
+      "filename" : "Pokémon456.sticker"
+    },
+    {
+      "filename" : "Pokémon400.sticker"
+    },
+    {
+      "filename" : "Pokémon402.sticker"
+    },
+    {
+      "filename" : "Pokémon374.sticker"
+    },
+    {
+      "filename" : "Pokémon337.sticker"
+    },
+    {
+      "filename" : "Pokémon408.sticker"
+    },
+    {
+      "filename" : "Pokémon394.sticker"
+    },
+    {
+      "filename" : "Pokémon419.sticker"
+    },
+    {
+      "filename" : "Pokémon471.sticker"
+    },
+    {
+      "filename" : "Pokémon169.sticker"
+    },
+    {
+      "filename" : "Pokémon215.sticker"
+    },
+    {
+      "filename" : "Pokémon56.sticker"
+    },
+    {
+      "filename" : "Pokémon64.sticker"
+    },
+    {
+      "filename" : "Pokémon87.sticker"
+    },
+    {
+      "filename" : "Pokémon212.sticker"
+    },
+    {
+      "filename" : "Pokémon21.sticker"
+    },
+    {
+      "filename" : "Pokémon118.sticker"
+    },
+    {
+      "filename" : "Pokémon331.sticker"
+    },
+    {
+      "filename" : "Pokémon220.sticker"
+    },
+    {
+      "filename" : "Pokémon281.sticker"
+    },
+    {
+      "filename" : "Pokémon320.sticker"
+    },
+    {
+      "filename" : "Pokémon183.sticker"
+    },
+    {
+      "filename" : "Pokémon405.sticker"
+    },
+    {
+      "filename" : "Pokémon305.sticker"
+    },
+    {
+      "filename" : "Pokémon407.sticker"
+    },
+    {
+      "filename" : "Pokémon209.sticker"
+    },
+    {
+      "filename" : "Pokémon71.sticker"
+    },
+    {
+      "filename" : "Pokémon360.sticker"
+    },
+    {
+      "filename" : "Pokémon291.sticker"
+    },
+    {
+      "filename" : "Pokémon375.sticker"
+    },
+    {
+      "filename" : "Pokémon333.sticker"
+    },
+    {
+      "filename" : "Pokémon383.sticker"
+    },
+    {
+      "filename" : "Pokémon413.sticker"
+    },
+    {
+      "filename" : "Pokémon25.sticker"
+    },
+    {
+      "filename" : "Pokémon260.sticker"
+    },
+    {
+      "filename" : "Pokémon141.sticker"
+    },
+    {
+      "filename" : "Pokémon8.sticker"
+    },
+    {
+      "filename" : "Pokémon12.sticker"
+    },
+    {
+      "filename" : "Pokémon7.sticker"
+    },
+    {
+      "filename" : "Pokémon196.sticker"
+    },
+    {
+      "filename" : "Pokémon411.sticker"
+    },
+    {
+      "filename" : "Pokémon63.sticker"
+    },
+    {
+      "filename" : "Pokémon43.sticker"
+    },
+    {
+      "filename" : "Pokémon80.sticker"
+    },
+    {
+      "filename" : "Pokémon468.sticker"
+    },
+    {
+      "filename" : "Pokémon490.sticker"
+    },
+    {
+      "filename" : "Pokémon300.sticker"
+    },
+    {
+      "filename" : "Pokémon459.sticker"
+    },
+    {
+      "filename" : "Pokémon90.sticker"
+    },
+    {
+      "filename" : "Pokémon414.sticker"
+    },
+    {
+      "filename" : "Pokémon170.sticker"
+    },
+    {
+      "filename" : "Pokémon17.sticker"
+    },
+    {
+      "filename" : "Pokémon464.sticker"
+    },
+    {
+      "filename" : "Pokémon186.sticker"
+    },
+    {
+      "filename" : "Pokémon48.sticker"
+    },
+    {
+      "filename" : "Pokémon295.sticker"
+    },
+    {
+      "filename" : "Pokémon172.sticker"
+    },
+    {
+      "filename" : "Pokémon387.sticker"
+    },
+    {
+      "filename" : "Pokémon130.sticker"
+    },
+    {
+      "filename" : "Pokémon268.sticker"
+    },
+    {
+      "filename" : "Pokémon109.sticker"
+    },
+    {
+      "filename" : "Pokémon484.sticker"
+    },
+    {
+      "filename" : "Pokémon363.sticker"
+    },
+    {
+      "filename" : "Pokémon315.sticker"
+    },
+    {
+      "filename" : "Pokémon435.sticker"
+    },
+    {
+      "filename" : "Pokémon115.sticker"
+    },
+    {
+      "filename" : "Pokémon289.sticker"
+    },
+    {
+      "filename" : "Pokémon217.sticker"
+    },
+    {
+      "filename" : "Pokémon205.sticker"
+    },
+    {
+      "filename" : "Pokémon233.sticker"
+    },
+    {
+      "filename" : "Pokémon373.sticker"
+    },
+    {
+      "filename" : "Pokémon423.sticker"
+    },
+    {
+      "filename" : "Pokémon404.sticker"
+    },
+    {
+      "filename" : "Pokémon68.sticker"
+    },
+    {
+      "filename" : "Pokémon96.sticker"
+    },
+    {
+      "filename" : "Pokémon429.sticker"
+    },
+    {
+      "filename" : "Pokémon467.sticker"
+    },
+    {
+      "filename" : "Pokémon418.sticker"
+    },
+    {
+      "filename" : "Pokémon273.sticker"
+    },
+    {
+      "filename" : "Pokémon3.sticker"
+    },
+    {
+      "filename" : "Pokémon410.sticker"
+    },
+    {
+      "filename" : "Pokémon199.sticker"
+    },
+    {
+      "filename" : "Pokémon67.sticker"
+    },
+    {
+      "filename" : "Pokémon24.sticker"
+    },
+    {
+      "filename" : "Pokémon290.sticker"
+    },
+    {
+      "filename" : "Pokémon135.sticker"
+    },
+    {
+      "filename" : "Pokémon257.sticker"
+    },
+    {
+      "filename" : "Pokémon287.sticker"
+    },
+    {
+      "filename" : "Pokémon49.sticker"
+    },
+    {
+      "filename" : "Pokémon245.sticker"
+    },
+    {
+      "filename" : "Pokémon311.sticker"
+    },
+    {
+      "filename" : "Pokémon282.sticker"
+    },
+    {
+      "filename" : "Pokémon120.sticker"
+    },
+    {
+      "filename" : "Pokémon440.sticker"
+    },
+    {
+      "filename" : "Pokémon469.sticker"
+    },
+    {
+      "filename" : "Pokémon123.sticker"
+    },
+    {
+      "filename" : "Pokémon142.sticker"
+    },
+    {
+      "filename" : "Pokémon200.sticker"
+    },
+    {
+      "filename" : "Pokémon443.sticker"
+    },
+    {
+      "filename" : "Pokémon4.sticker"
+    },
+    {
+      "filename" : "Pokémon229.sticker"
+    },
+    {
+      "filename" : "Pokémon144.sticker"
+    },
+    {
+      "filename" : "Pokémon34.sticker"
+    },
+    {
+      "filename" : "Pokémon349.sticker"
+    },
+    {
+      "filename" : "Pokémon52.sticker"
+    },
+    {
+      "filename" : "Pokémon426.sticker"
+    },
+    {
+      "filename" : "Pokémon263.sticker"
+    },
+    {
+      "filename" : "Pokémon251.sticker"
+    },
+    {
+      "filename" : "Pokémon105.sticker"
+    },
+    {
+      "filename" : "Pokémon372.sticker"
+    },
+    {
+      "filename" : "Pokémon62.sticker"
+    },
+    {
+      "filename" : "Pokémon390.sticker"
+    },
+    {
+      "filename" : "Pokémon338.sticker"
+    },
+    {
+      "filename" : "Pokémon2.sticker"
+    },
+    {
+      "filename" : "Pokémon77.sticker"
+    },
+    {
+      "filename" : "Pokémon369.sticker"
+    },
+    {
+      "filename" : "Pokémon401.sticker"
+    },
+    {
+      "filename" : "Pokémon355.sticker"
+    },
+    {
+      "filename" : "Pokémon457.sticker"
+    },
+    {
+      "filename" : "Pokémon353.sticker"
+    },
+    {
+      "filename" : "Pokémon210.sticker"
+    },
+    {
+      "filename" : "Pokémon276.sticker"
+    },
+    {
+      "filename" : "Pokémon121.sticker"
+    },
+    {
+      "filename" : "Pokémon154.sticker"
+    },
+    {
+      "filename" : "Pokémon151.sticker"
+    },
+    {
+      "filename" : "Pokémon136.sticker"
+    },
+    {
+      "filename" : "Pokémon284.sticker"
+    },
+    {
+      "filename" : "Pokémon342.sticker"
+    },
+    {
+      "filename" : "Pokémon438.sticker"
+    },
+    {
+      "filename" : "Pokémon310.sticker"
+    },
+    {
+      "filename" : "Pokémon298.sticker"
+    },
+    {
+      "filename" : "Pokémon197.sticker"
+    },
+    {
+      "filename" : "Pokémon316.sticker"
+    },
+    {
+      "filename" : "Pokémon122.sticker"
+    },
+    {
+      "filename" : "Pokémon46.sticker"
+    },
+    {
+      "filename" : "Pokémon377.sticker"
+    },
+    {
+      "filename" : "Pokémon222.sticker"
+    },
+    {
+      "filename" : "Pokémon88.sticker"
+    },
+    {
+      "filename" : "Pokémon345.sticker"
+    },
+    {
+      "filename" : "Pokémon146.sticker"
+    },
+    {
+      "filename" : "Pokémon352.sticker"
+    },
+    {
+      "filename" : "Pokémon473.sticker"
+    },
+    {
+      "filename" : "Pokémon248.sticker"
+    },
+    {
+      "filename" : "Pokémon13.sticker"
+    },
+    {
+      "filename" : "Pokémon107.sticker"
+    },
+    {
+      "filename" : "Pokémon137.sticker"
+    },
+    {
+      "filename" : "Pokémon207.sticker"
+    },
+    {
+      "filename" : "Pokémon173.sticker"
+    },
+    {
+      "filename" : "Pokémon128.sticker"
+    },
+    {
+      "filename" : "Pokémon307.sticker"
+    },
+    {
+      "filename" : "Pokémon190.sticker"
+    },
+    {
+      "filename" : "Pokémon334.sticker"
+    },
+    {
+      "filename" : "Pokémon174.sticker"
+    },
+    {
+      "filename" : "Pokémon441.sticker"
+    },
+    {
+      "filename" : "Pokémon339.sticker"
+    },
+    {
+      "filename" : "Pokémon358.sticker"
+    },
+    {
+      "filename" : "Pokémon425.sticker"
+    },
+    {
+      "filename" : "Pokémon476.sticker"
+    },
+    {
+      "filename" : "Pokémon326.sticker"
+    },
+    {
+      "filename" : "Pokémon359.sticker"
+    },
+    {
+      "filename" : "Pokémon108.sticker"
+    },
+    {
+      "filename" : "Pokémon347.sticker"
+    },
+    {
+      "filename" : "Pokémon100.sticker"
+    },
+    {
+      "filename" : "Pokémon73.sticker"
+    },
+    {
+      "filename" : "Pokémon458.sticker"
+    },
+    {
+      "filename" : "Pokémon45.sticker"
+    },
+    {
+      "filename" : "Pokémon232.sticker"
+    },
+    {
+      "filename" : "Pokémon184.sticker"
+    },
+    {
+      "filename" : "Pokémon152.sticker"
+    },
+    {
+      "filename" : "Pokémon201.sticker"
+    },
+    {
+      "filename" : "Pokémon415.sticker"
+    },
+    {
+      "filename" : "Pokémon171.sticker"
+    },
+    {
+      "filename" : "Pokémon371.sticker"
+    },
+    {
+      "filename" : "Pokémon114.sticker"
+    },
+    {
+      "filename" : "Pokémon19.sticker"
+    },
+    {
+      "filename" : "Pokémon58.sticker"
+    },
+    {
+      "filename" : "Pokémon161.sticker"
+    },
+    {
+      "filename" : "Pokémon181.sticker"
+    },
+    {
+      "filename" : "Pokémon265.sticker"
+    },
+    {
+      "filename" : "Pokémon1.sticker"
+    },
+    {
+      "filename" : "Pokémon81.sticker"
+    },
+    {
+      "filename" : "Pokémon447.sticker"
+    },
+    {
+      "filename" : "Pokémon370.sticker"
+    },
+    {
+      "filename" : "Pokémon175.sticker"
+    },
+    {
+      "filename" : "Pokémon79.sticker"
+    },
+    {
+      "filename" : "Pokémon85.sticker"
+    },
+    {
+      "filename" : "Pokémon157.sticker"
+    },
+    {
+      "filename" : "Pokémon5.sticker"
+    },
+    {
+      "filename" : "Pokémon271.sticker"
+    },
+    {
+      "filename" : "Pokémon256.sticker"
+    },
+    {
+      "filename" : "Pokémon145.sticker"
+    },
+    {
+      "filename" : "Pokémon366.sticker"
+    },
+    {
+      "filename" : "Pokémon86.sticker"
+    },
+    {
+      "filename" : "Pokémon264.sticker"
+    },
+    {
+      "filename" : "Pokémon42.sticker"
+    },
+    {
+      "filename" : "Pokémon237.sticker"
+    },
+    {
+      "filename" : "Pokémon312.sticker"
+    },
+    {
+      "filename" : "Pokémon421.sticker"
+    },
+    {
+      "filename" : "Pokémon321.sticker"
+    },
+    {
+      "filename" : "Pokémon47.sticker"
+    },
+    {
+      "filename" : "Pokémon262.sticker"
+    },
+    {
+      "filename" : "Pokémon424.sticker"
+    },
+    {
+      "filename" : "Pokémon66.sticker"
+    },
+    {
+      "filename" : "Pokémon479.sticker"
+    },
+    {
+      "filename" : "Pokémon102.sticker"
+    },
+    {
+      "filename" : "Pokémon403.sticker"
+    },
+    {
+      "filename" : "Pokémon228.sticker"
+    },
+    {
+      "filename" : "Pokémon16.sticker"
+    },
+    {
+      "filename" : "Pokémon240.sticker"
+    },
+    {
+      "filename" : "Pokémon129.sticker"
+    },
+    {
+      "filename" : "Pokémon466.sticker"
+    },
+    {
+      "filename" : "Pokémon348.sticker"
+    },
+    {
+      "filename" : "Pokémon318.sticker"
+    },
+    {
+      "filename" : "Pokémon61.sticker"
+    },
+    {
+      "filename" : "Pokémon187.sticker"
+    },
+    {
+      "filename" : "Pokémon279.sticker"
+    },
+    {
+      "filename" : "Pokémon267.sticker"
+    },
+    {
+      "filename" : "Pokémon27.sticker"
+    },
+    {
+      "filename" : "Pokémon439.sticker"
+    },
+    {
+      "filename" : "Pokémon428.sticker"
+    },
+    {
+      "filename" : "Pokémon275.sticker"
+    },
+    {
+      "filename" : "Pokémon182.sticker"
+    },
+    {
+      "filename" : "Pokémon76.sticker"
+    },
+    {
+      "filename" : "Pokémon269.sticker"
+    },
+    {
+      "filename" : "Pokémon255.sticker"
+    },
+    {
+      "filename" : "Pokémon125.sticker"
+    },
+    {
+      "filename" : "Pokémon304.sticker"
+    },
+    {
+      "filename" : "Pokémon386.sticker"
+    },
+    {
+      "filename" : "Pokémon54.sticker"
+    },
+    {
+      "filename" : "Pokémon427.sticker"
+    },
+    {
+      "filename" : "Pokémon160.sticker"
+    },
+    {
+      "filename" : "Pokémon194.sticker"
+    },
+    {
+      "filename" : "Pokémon396.sticker"
+    },
+    {
+      "filename" : "Pokémon97.sticker"
+    },
+    {
+      "filename" : "Pokémon329.sticker"
+    },
+    {
+      "filename" : "Pokémon492.sticker"
+    },
+    {
+      "filename" : "Pokémon388.sticker"
+    },
+    {
+      "filename" : "Pokémon38.sticker"
+    },
+    {
+      "filename" : "Pokémon124.sticker"
+    },
+    {
+      "filename" : "Pokémon72.sticker"
+    },
+    {
+      "filename" : "Pokémon53.sticker"
+    },
+    {
+      "filename" : "Pokémon165.sticker"
+    },
+    {
+      "filename" : "Pokémon317.sticker"
+    },
+    {
+      "filename" : "Pokémon379.sticker"
+    },
+    {
+      "filename" : "Pokémon433.sticker"
+    },
+    {
+      "filename" : "Pokémon231.sticker"
+    },
+    {
+      "filename" : "Pokémon166.sticker"
+    },
+    {
+      "filename" : "Pokémon234.sticker"
+    },
+    {
+      "filename" : "Pokémon15.sticker"
+    },
+    {
+      "filename" : "Pokémon70.sticker"
+    },
+    {
+      "filename" : "Pokémon259.sticker"
+    },
+    {
+      "filename" : "Pokémon346.sticker"
+    },
+    {
+      "filename" : "Pokémon481.sticker"
+    },
+    {
+      "filename" : "Pokémon162.sticker"
+    },
+    {
+      "filename" : "Pokémon243.sticker"
+    },
+    {
+      "filename" : "Pokémon75.sticker"
+    },
+    {
+      "filename" : "Pokémon156.sticker"
+    },
+    {
+      "filename" : "Pokémon23.sticker"
+    },
+    {
+      "filename" : "Pokémon254.sticker"
+    },
+    {
+      "filename" : "Pokémon236.sticker"
+    },
+    {
+      "filename" : "Pokémon192.sticker"
+    },
+    {
+      "filename" : "Pokémon444.sticker"
+    },
+    {
+      "filename" : "Pokémon437.sticker"
+    },
+    {
+      "filename" : "Pokémon111.sticker"
+    },
+    {
+      "filename" : "Pokémon185.sticker"
+    },
+    {
+      "filename" : "Pokémon314.sticker"
+    },
+    {
+      "filename" : "Pokémon303.sticker"
+    },
+    {
+      "filename" : "Pokémon193.sticker"
+    },
+    {
+      "filename" : "Pokémon288.sticker"
+    },
+    {
+      "filename" : "Pokémon272.sticker"
+    },
+    {
+      "filename" : "Pokémon60.sticker"
+    },
+    {
+      "filename" : "Pokémon472.sticker"
+    },
+    {
+      "filename" : "Pokémon226.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "large"
   }
 }
